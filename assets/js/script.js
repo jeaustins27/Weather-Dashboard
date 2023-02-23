@@ -124,7 +124,7 @@ function renderForecastCard(forecast) {
 }
 
 // Function to display 5 day forecast.
-function renderForecast(dailyForecast) {
+function createForecast(dailyForecast) {
     // Time stamps to create a 5 day forecast
     var startDt = dayjs().add(1, 'day').startOf('day').unix();
     var endDt = dayjs().add(6, 'day').startOf('day').unix();
@@ -151,10 +151,10 @@ function renderForecast(dailyForecast) {
     }
 }
 
-// Function to render the current weather and data captured in renderForecast function.
+// Function to render the current weather and data captured in createForecast function.
 function renderItems(city, data) {
     currentWeather(city, data.list[0], data.city);
-    renderForecast(data.list);
+    createForecast(data.list);
 }
 
 // Fetch call that will get the coordinates of the city searched
