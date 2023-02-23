@@ -46,7 +46,7 @@ You can help with contributing by reaching me via email.
 
 ## Tests
 
-If you do not enter the name of a valid city in the USA, you will receive an alert that will say "City not found"
+If you do not enter the name of a valid city in the USA, you will receive an alert that will say "City not found" and your entry will not be added to the previous searches.
 
 ## Questions
 
