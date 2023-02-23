@@ -17,7 +17,7 @@ This project is designed for users to check the current weather and 5 day foreca
 
 ## Links
 
-- [Deployed Application](https://jeaustins27.github.io/Work-Day-Scheduler/)
+- [Deployed Application](https://jeaustins27.github.io/Weather-Dashboard/)
 - [GitHub Repo](https://github.com/jeaustins27/Weather-Dashboard)
 
 ## Usage
