@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is designed for users to check the current weather and 5 day forecast of any given city in the US. Whether you want to check the forecast for your day to day activities or you are travelling, this project can help you plan accordingly. The project will also save your recent city searches in case you are traveling between multiple cities.
+This project is designed for users to check the current weather and 5 day forecast of any given city. Whether you want to check the forecast for your day to day activities or you are travelling, this project can help you plan accordingly. The project will also save your recent city searches in case you are traveling between multiple cities.
 
 ## Table of Contents
 
